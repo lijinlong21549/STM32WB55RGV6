@@ -1,0 +1,77 @@
+Added Component: Designator=U2(VFQFN68-8x8mm-M)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32WB55RGV6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Updates_to_database_2020-10-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=GPIO_PC13 Pin=U2-2
+Added Pin To Net: NetName=OSC32_IN Pin=U2-3
+Added Pin To Net: NetName=OSC32_OUT Pin=U2-4
+Added Pin To Net: NetName=MCU-BOOT0 Pin=U2-5
+Added Pin To Net: NetName=QSPI_IO1 Pin=U2-6
+Added Pin To Net: NetName=QSPI_IO0 Pin=U2-7
+Added Pin To Net: NetName=MCU-NRST Pin=U2-8
+Added Pin To Net: NetName=GPIO_PC0 Pin=U2-9
+Added Pin To Net: NetName=GPIO_PC1 Pin=U2-10
+Added Pin To Net: NetName=GPIO_PC2 Pin=U2-11
+Added Pin To Net: NetName=GPIO_PC3 Pin=U2-12
+Added Pin To Net: NetName=VDDA Pin=U2-13
+Added Pin To Net: NetName=VDDA Pin=U2-14
+Added Pin To Net: NetName=GPIO_PA0 Pin=U2-15
+Added Pin To Net: NetName=GPIO_PA1 Pin=U2-16
+Added Pin To Net: NetName=GPIO_PA2 Pin=U2-17
+Added Pin To Net: NetName=GPIO_PA3 Pin=U2-18
+Added Pin To Net: NetName=GPIO_PA4 Pin=U2-19
+Added Pin To Net: NetName=GPIO_PA5 Pin=U2-20
+Added Pin To Net: NetName=QSPI_IO3 Pin=U2-21
+Added Pin To Net: NetName=QSPI_IO2 Pin=U2-22
+Added Pin To Net: NetName=GPIO_PA8 Pin=U2-23
+Added Pin To Net: NetName=GPIO_PA9 Pin=U2-24
+Added Pin To Net: NetName=GPIO_PC4 Pin=U2-25
+Added Pin To Net: NetName=GPIO_PC5 Pin=U2-26
+Added Pin To Net: NetName=GPIO_PB2 Pin=U2-27
+Added Pin To Net: NetName=QSPI_CLK Pin=U2-28
+Added Pin To Net: NetName=QSPI_CS Pin=U2-29
+Added Pin To Net: NetName=3V3 Pin=U2-30
+Added Pin To Net: NetName=RF1 Pin=U2-31
+Added Pin To Net: NetName=GND Pin=U2-32
+Added Pin To Net: NetName=3V3 Pin=U2-33
+Added Pin To Net: NetName=OSC_OUT Pin=U2-34
+Added Pin To Net: NetName=OSC_IN Pin=U2-35
+Added Pin To Net: NetName=NetTP1_1 Pin=U2-36
+Added Pin To Net: NetName=NetTP2_1 Pin=U2-37
+Added Pin To Net: NetName=GPIO_PB0 Pin=U2-38
+Added Pin To Net: NetName=GPIO_PB1 Pin=U2-39
+Added Pin To Net: NetName=GPIO_PE0 Pin=U2-40
+Added Pin To Net: NetName=NetC5_2 Pin=U2-41
+Added Pin To Net: NetName=GND Pin=U2-42
+Added Pin To Net: NetName=NetL3_2 Pin=U2-43
+Added Pin To Net: NetName=3V3 Pin=U2-44
+Added Pin To Net: NetName=3V3 Pin=U2-45
+Added Pin To Net: NetName=GPIO_PB12 Pin=U2-46
+Added Pin To Net: NetName=GPIO_PB13 Pin=U2-47
+Added Pin To Net: NetName=GPIO_PB14 Pin=U2-48
+Added Pin To Net: NetName=GPIO_PB15 Pin=U2-49
+Added Pin To Net: NetName=GPIO_PC6 Pin=U2-50
+Added Pin To Net: NetName=GPIO_PA10 Pin=U2-51
+Added Pin To Net: NetName=USB_P Pin=U2-53
+Added Pin To Net: NetName=JTMS Pin=U2-54
+Added Pin To Net: NetName=3V3 Pin=U2-55
+Added Pin To Net: NetName=JTCK Pin=U2-56
+Added Pin To Net: NetName=GPIO_PA15 Pin=U2-57
+Added Pin To Net: NetName=GPIO_PC10 Pin=U2-58
+Added Pin To Net: NetName=GPIO_PC11 Pin=U2-59
+Added Pin To Net: NetName=GPIO_PC12 Pin=U2-60
+Added Pin To Net: NetName=GPIO_PD0 Pin=U2-61
+Added Pin To Net: NetName=GPIO_PD1 Pin=U2-62
+Added Pin To Net: NetName=GPIO_PB3 Pin=U2-63
+Added Pin To Net: NetName=GPIO_PB4 Pin=U2-64
+Added Pin To Net: NetName=GPIO_PB5 Pin=U2-65
+Added Pin To Net: NetName=GPIO_PB6 Pin=U2-66
+Added Pin To Net: NetName=GPIO_PB7 Pin=U2-67
+Added Pin To Net: NetName=3V3 Pin=U2-68
+Added Pin To Net: NetName=GND Pin=U2-69
+Added Member To Class: ClassName=MUC Member=Component U2 STM32WB55RGV6

@@ -1,0 +1,20 @@
+Change Component Comment : Designator=C16 Old Comment=10pF/50V New Comment=9pF/50V
+Change Component Comment : Designator=C17 Old Comment=10pF/50V New Comment=9pF/50V
+Added Component: Designator=X1(OSC 1612-4P)
+Add component (AddParameter): Name = "主类型"; Value = "晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "8M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "10PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "无源晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40℃~85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = " TAE(雅晶鑫)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "TAXM8M4RDBCCT2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C400090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC_IN Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=OSC_OUT Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Member To Class: ClassName=MUC Member=Component X1 32M

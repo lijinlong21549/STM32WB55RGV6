@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=USB_P Pin=U2-53
+Added Member To Class: ClassName=MUC Member=Component U2 STM32WB55RGV6

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=JTMS Pin=R22-2
+Removed Pin From Net: NetName=JTCK Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=U1-17
+Removed Member From Class: ClassName=MUC Member=R22
+Removed Member From Class: ClassName=MUC Member=R23
+Added Pin To Net: NetName=JTMS Pin=U2-54
+Added Pin To Net: NetName=JTCK Pin=U2-56

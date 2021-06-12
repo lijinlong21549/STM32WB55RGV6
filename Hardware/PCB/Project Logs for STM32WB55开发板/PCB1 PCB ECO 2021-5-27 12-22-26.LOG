@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=USB_P Pin=U2-53
+Added Pin To Net: NetName=STM32_USB_N Pin=R11-1
+Added Pin To Net: NetName=STM32_USB_N Pin=U2-52
+Added Net: Name=STM32_USB_N
+Added Pin To Net: NetName=STM32_USB_P Pin=R12-1
+Added Pin To Net: NetName=STM32_USB_P Pin=U2-53
+Added Net: Name=STM32_USB_P
+Added Differential Pair: Name=STM32_USB

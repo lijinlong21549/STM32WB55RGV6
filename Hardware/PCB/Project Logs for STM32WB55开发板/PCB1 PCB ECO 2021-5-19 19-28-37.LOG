@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=GPIO_PA6 New Net Name=QSPI_IO3
+Change Net Name : Old Net Name=GPIO_PA7 New Net Name=QSPI_IO2
+Change Net Name : Old Net Name=GPIO_PB8 New Net Name=QSPI_IO1
+Change Net Name : Old Net Name=GPIO_PB9 New Net Name=QSPI_IO0
+Change Net Name : Old Net Name=GPIO_PB10 New Net Name=QSPI_CLK
+Change Net Name : Old Net Name=GPIO_PB11 New Net Name=QSPI_CS

@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=WB55_Schematic.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=WB55_Schematic.SchDoc|Designator=MUC|SchDesignator=MUC|FileName=MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WB55_Schematic.SchDoc|Designator=POW|SchDesignator=POW|FileName=POW.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=POW.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WB55_Schematic.SchDoc|Designator=RF|SchDesignator=RF|FileName=RF.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=RF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WB55_Schematic.SchDoc|Designator=ST-Link|SchDesignator=ST-Link|FileName=ST-LINK.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=ST-LINK.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
