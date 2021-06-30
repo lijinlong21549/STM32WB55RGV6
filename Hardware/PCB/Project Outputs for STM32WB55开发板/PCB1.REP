@@ -25,7 +25,7 @@ Generating : Mechanical 13
 
 
 Used DCodes :
-    D12
+    D14
     D15
 *************************************************************
 
@@ -78,7 +78,7 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D48
+    D50
 *************************************************************
 
 *************************************************************
@@ -93,7 +93,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D77
+    D79
     D83
     D84
     D85
@@ -115,8 +115,8 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D25
-    D26
+    D28
+    D29
     D54
     D55
     D56
@@ -233,9 +233,9 @@ Generating : Top Pad Master
 
 Used DCodes :
     D23
+    D24
     D25
     D26
-    D27
     D28
     D29
     D30
@@ -262,7 +262,7 @@ Used DCodes :
     D51
     D52
     D53
-    D55
+    D58
     D91
     D92
     D93
@@ -281,7 +281,7 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D48
+    D50
     D91
     D92
     D93
@@ -304,7 +304,7 @@ Used DCodes :
     D15
     D16
     D20
-    D48
+    D50
     D89
     D91
     D92
@@ -331,9 +331,9 @@ Used DCodes :
     D17
     D20
     D23
+    D24
     D25
     D26
-    D27
     D28
     D29
     D30
@@ -360,7 +360,7 @@ Used DCodes :
     D51
     D52
     D53
-    D55
+    D58
     D89
     D90
     D91
